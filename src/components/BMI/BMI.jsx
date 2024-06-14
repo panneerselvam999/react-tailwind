@@ -222,7 +222,7 @@ const BMI = () => {
                                 min={0}
                                 ref={heightRef}
                                 // value={height}
-                                onChange={(e) => setHeight(e.target.value)}
+                                // onChange={(e) => setHeight(e.target.value)}
                                 className="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 focus:border-blue-500 focus:ring-blue-500"
                                 placeholder="Enter height"
                                 required
@@ -241,7 +241,7 @@ const BMI = () => {
                                 min={0}
                                 ref={weightRef}
                                 // value={weight}
-                                onChange={(e) => setWeight(e.target.value)}
+                                // onChange={(e) => setWeight(e.target.value)}
                                 className="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 focus:border-blue-500 focus:ring-blue-500"
                                 placeholder="Enter weight"
                                 required
