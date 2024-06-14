@@ -1,0 +1,50 @@
+{
+  "userDate": [
+    {
+      "id": 1,
+      "name": "Panneer test",
+      "city": "Salem",
+      "description": "Front-end Developer",
+      "skills": [
+        "UI/UX",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node"
+      ],
+      "online": true,
+      "profile": "../img/card1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Robert",
+      "city": "Chennai",
+      "description": "Back-end Developer",
+      "skills": [
+        "back end Development",
+        "Java",
+        "Python",
+        "Sql",
+        "Mongodb"
+      ],
+      "online": true,
+      "profile": "img/card2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Test Sanjai",
+      "city": "Coimbator",
+      "description": "UI UX",
+      "skills": [
+        "UI/UX",
+        "Front end Development",
+        "Adob",
+        "Canva"
+      ],
+      "online": false,
+      "profile": "../../public/img/card3.jpg"
+    }
+  ]
+}
+
