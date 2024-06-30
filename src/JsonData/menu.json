@@ -1,0 +1,36 @@
+{
+    "menuData": [
+        {
+            "id": 1,
+            "name": "BMI"
+        },
+        {
+            "id": 2,
+            "name": "Carousel - 1"
+        },
+        {
+            "id": 3,
+            "name": "Carousel - 2"
+        },
+        {
+            "id": 4,
+            "name": "Currency Convertor"
+        },
+        {
+            "id": 5,
+            "name": "Password Generator"
+        },
+        {
+            "id": 6,
+            "name": "QR Code Generator"
+        },
+        {
+            "id": 7,
+            "name": "User Card"
+        },
+        {
+            "id": 8,
+            "name": "Weather"
+        }
+    ]
+}

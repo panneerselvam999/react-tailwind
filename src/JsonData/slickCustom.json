@@ -1,0 +1,54 @@
+{
+    "slickData": [
+        {
+            "id": 1,
+            "title": "Web Developer ",
+            "img": "img/card1.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam.",
+            "lable": "READ MORE"
+        },
+        {
+            "id": 2,
+            "title": "UI/UX Designer",
+            "img": "img/card2.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam.",
+            "lable": "READ MORE"
+        },
+        {
+            "id": 3,
+            "title": "Android Development",
+            "img": "img/card3.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam.",
+            "lable": "READ MORE"
+        },
+        {
+            "id": 4,
+            "title": "24/7 Support ",
+            "img": "img/card1.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam.",
+            "lable": "READ MORE"
+        },
+        {
+            "id": 5,
+            "title": " ",
+            "img": "img/card2.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam.",
+            "lable": "READ MORE"
+        },
+        {
+            "id": 6,
+            "title": "Free Cossulting ",
+            "img": "img/card3.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam.",
+            "lable": "READ MORE"
+        },
+        {
+            "id": 7,
+            "title": "On Time Delivery",
+            "img": "img/card1.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam.",
+            "lable": "READ MORE"
+        }
+        
+    ]
+}

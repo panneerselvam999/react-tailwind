@@ -1,0 +1,64 @@
+{
+    "slickData": [
+        {
+            "id": 1,
+            "name": "panneer",
+            "img": "img/card1.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        },
+        {
+            "id": 2,
+            "name": "panneer",
+            "img": "img/card2.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        },
+        {
+            "id": 3,
+            "name": "panneer",
+            "img": "img/card3.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        },
+        {
+            "id": 4,
+            "name": "panneer",
+            "img": "img/card1.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        },
+        {
+            "id": 5,
+            "name": "panneer",
+            "img": "img/card2.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        },
+        {
+            "id": 6,
+            "name": "panneer",
+            "img": "img/card3.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        },
+        {
+            "id": 7,
+            "name": "panneer",
+            "img": "img/card1.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        },
+        {
+            "id": 8,
+            "name": "panneer",
+            "img": "img/card2.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        },
+        {
+            "id": 9,
+            "name": "panneer",
+            "img": "img/card1.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        },
+        {
+            "id": 10,
+            "name": "panneer",
+            "img": "img/card1.jpg",
+            "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam."
+        }
+    ]
+}

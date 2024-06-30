@@ -1,18 +1,67 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
 }
 
 body {
-    overflow-x: hidden;
+  overflow-x: hidden;
 }
+
+/* .slick-list {
+    padding: 0 20px;
+} */
+
+.slick-slide div {
+  margin: 10px;
+}
+
+
+
+#slider-box {
+  display: flex !important;
+}
+
+.slick-arrow {
+  border: 1px solid;
+}
+
+.slick-arrow::before {
+  color: red;
+  font-size: 50px;
+}
+
+.slick-prev {
+  top: -60px;
+  left: 990px;
+}
+
+.slick-next {
+  right: 26px;
+  top: -60px;
+}
+
+@media only screen and (max-width: 600) {
+  .slick-prev {
+    top: 200px;
+    left: -30px;
+  }
+
+  .slick-next {
+    top: 200px;
+    right: -25px;
+  } 
+
+  .slick-arrow::before {
+    font-size: 40px;
+  }
+} 
