@@ -1,36 +1,44 @@
 {
-    "menuData": [
-        {
-            "id": 1,
-            "name": "BMI"
-        },
-        {
-            "id": 2,
-            "name": "Carousel - 1"
-        },
-        {
-            "id": 3,
-            "name": "Carousel - 2"
-        },
-        {
-            "id": 4,
-            "name": "Currency Convertor"
-        },
-        {
-            "id": 5,
-            "name": "Password Generator"
-        },
-        {
-            "id": 6,
-            "name": "QR Code Generator"
-        },
-        {
-            "id": 7,
-            "name": "User Card"
-        },
-        {
-            "id": 8,
-            "name": "Weather"
-        }
-    ]
+  "menuData": [
+    {
+      "id": 1,
+      "name": "BMI",
+      "navLink": "bmi"
+    },
+    {
+      "id": 2,
+      "name": "Currency Convertor",
+      "navLink": "currency"
+    },
+    {
+      "id": 3,
+      "name": "Password Generator",
+      "navLink": "password"
+    },
+    {
+      "id": 4,
+      "name": "QR Code Generator",
+      "navLink": "qrCode"
+    },
+    {
+      "id": 5,
+      "name": "Carousel - 2",
+      "navLink": "carousel2"
+    },
+    {
+      "id": 6,
+      "name": "Carousel - 1",
+      "navLink": "carousel1"
+    },
+    {
+      "id": 7,
+      "name": "User Card - 1",
+      "navLink": "userCard1"
+    },
+    {
+      "id": 8,
+      "name": "User Card - 2",
+      "navLink": "userCard2"
+    }
+  ]
 }

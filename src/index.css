@@ -59,9 +59,9 @@ body {
   .slick-next {
     top: 200px;
     right: -25px;
-  } 
+  }
 
   .slick-arrow::before {
     font-size: 40px;
   }
-} 
+}
